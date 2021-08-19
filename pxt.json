@@ -16,5 +16,14 @@
     "testFiles": [
         "test.ts"
     ],
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "szdlt/Hello-Maker": {
+                    "enabled": 0
+                }
+            }
+        }
+    },
     "public": true
 }
