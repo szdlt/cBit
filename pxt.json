@@ -5,13 +5,13 @@
     "license": "MIT",
     "dependencies": {
         "core": "*"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10"
     },
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/cbit-strings.json",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10"
-
+        "_locales/zh/cbit-strings.json"
+      
     ],
     "testFiles": [
         "test.ts"
