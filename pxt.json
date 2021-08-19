@@ -18,11 +18,11 @@
     ],
     "yotta": {
         "config": {
-            "microbit-dal": {
+           
                 "Siwt21": {
                     "enabled": 0
                 }
-            }
+        
         }
     },
     "public": true
